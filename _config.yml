@@ -6,8 +6,6 @@ logo: 'assets/images/my.jpg'
 favicon: 'assets/images/favicon.png'
 baseurl: /
 google_analytics: 'G-2KGKGYQR60'
-disqus: ''
-mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 email: mhkarami97@gmail.com
