@@ -393,6 +393,10 @@ img, img:hover {
     }
 }
 
+.main-content {
+    text-align: right;
+}
+
 // blog 
 .article-post, .entry-header, .comments, .rating, .authorbox {
     max-width: 740px;
@@ -402,7 +406,7 @@ img, img:hover {
     margin-right: auto;
 }
 .posttitle {
-    font-size:50px;
+    font-size:30px;
     font-weight:700;
     line-height:1.2;
 }
@@ -412,7 +416,7 @@ img, img:hover {
     text-align:center;
     margin-left:auto;
     margin-right: auto;
-    margin-top:50px;
+    margin-top:20px;
     margin-bottom:50px;
 }
 .image-shadow {   
